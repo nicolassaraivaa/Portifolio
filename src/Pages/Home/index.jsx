@@ -35,7 +35,7 @@ function Home() {
 
         <Navegation>
           <TextNavs href="#sobre">Sobre</TextNavs>
-          <TextNavs href="#">Skils</TextNavs>
+          <TextNavs href="#skills">Skills</TextNavs>
           <TextNavs href="#">Projetos</TextNavs>
           <TextNavs href="#">Contato</TextNavs>
         </Navegation>

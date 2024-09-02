@@ -4,7 +4,7 @@ export const Container = styled.div`
     background: radial-gradient(46.97% 53.54% at 50% 46.46%, rgb(0 171 253 / 20%) 0%, rgba(0, 1, 2, 0) 100%), rgb(35, 37, 50);
     height: 100vh;
     display:flex;
-    justify-content: space-evenly;
+    justify-content: space-between;
     align-items: center;
     padding: 0 20%;
 
@@ -14,6 +14,8 @@ export const Container = styled.div`
 
     @media screen and (max-width: 980px){  
         flex-direction: column;
+        justify-content: space-evenly;
+
     }
 
     @media screen and (max-width: 1560px){  
@@ -82,7 +84,13 @@ export const TextNavs = styled.a`
         display: block;
     }
 
+    @media screen and (max-width: 390px){  
+        font-size: 12px;
+    }
 
+    @media screen and (max-width: 360px){  
+        font-size: 10px;
+    }
 
 `
 
