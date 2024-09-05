@@ -12,8 +12,8 @@ const ProjectsData = [
         "id": 1,
         "img": telalogin,
         "title": "Cadastro de Users",
-        "description": "Sistema de cadastro e gerenciamento de usuários com frontend em React e backend em Express. Permite cadastrar e listar usuários, e excluir registros. Usa MongoDB e Prisma para gerenciamento de dados.",
-        "tool": "React · JavaScript · Express · MongoDB",
+        "description": "Sistema de cadastro e gerenciamento de usuários em React e Express. Permite cadastrar e listar usuários, e excluir registros. Usa MongoDB e Prisma para gerenciar os dados.",
+        "tool": "React · JavaScript · Node Js · MongoDB",
         "github": "https://github.com/nicolassaraivaa/devclub-cadastro-usuarios",
         "link": "https://devcadastro-usuarios.vercel.app/"
     },
@@ -21,7 +21,7 @@ const ProjectsData = [
         "id": 2,
         "img": currency,
         "title": "Conversor",
-        "description": "Aplicação de conversão de moedas que permite ao usuário selecionar moedas de origem e destino, inserir um valor e ver a conversão. Utiliza JavaScript para obter taxas de câmbio da API e atualizar a interface com o valor convertido.",
+        "description": "O código realiza a conversão de moedas com base na seleção do usuário e exibe o valor convertido. Utiliza uma API para taxas de câmbio e formata o valor final.",
         "tool": "HTML · CSS · JavaScript · Fetch API",
         "github": "https://github.com/nicolassaraivaa/projeto-conversor",
         "link": "https://nicolassaraivaa.github.io/projeto-conversor/"

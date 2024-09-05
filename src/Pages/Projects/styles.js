@@ -118,7 +118,6 @@ export const Description = styled.p`
     text-align: justify;
     height: 175px;
     word-spacing: -0.05em;
-    
 
 `
 export const Tools = styled.p`
