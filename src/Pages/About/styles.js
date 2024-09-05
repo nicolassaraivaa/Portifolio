@@ -5,12 +5,11 @@ export const ContainerAbout = styled.div`
     flex-direction: row;
     justify-content: space-evenly;
     align-items: center;
-    background-color: #222532;
-    gap: 100px;
     padding: 150px 0px;
 
     @media screen and (max-width: 1060px) {    
         flex-direction: column;
+        gap: 100px;
     }
 
     @media screen and (max-width: 645px) {    
@@ -90,3 +89,5 @@ export const TextButton = styled.span`
     border-radius: 5px;
     font-size: 18px;
 `;
+
+

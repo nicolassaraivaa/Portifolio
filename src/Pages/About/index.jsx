@@ -16,23 +16,25 @@ import {
 function About() {
 
     return (
-        <ContainerAbout id='sobre'>
-            <Image src={myphoto} alt="" />
+        <ContainerAbout id='about'>
+            <div>
+                <Image src={myphoto} alt="foto-programando" />
+            </div>
 
             <SubContainerAbout>
                 <Title>Sobre mim</Title>
                 <Description>
-                    Comecei minha jornada na programação em 2019, quando ingressei em uma escola técnica de informatíca, de lá pra cá descobri sou um apaixonado por tecnologia e por desenvolvimento pessoal.
+                    Comecei minha jornada na programação em 2021, quando ingressei no Curso em Vídeo. Desde então, descobri que sou apaixonado por tecnologia e desenvolvimento pessoal.
                 </Description>
                 <Description>
-                    Atualmente estou estudando linguagens/frameworks como: Javascript, TypeScript, React, React Native, NodeJS entre outras tecnologias que uso para criar aplicações web/mobile de alto nível e valor.
+                    Atualmente, estudo linguagens e frameworks como JavaScript, TypeScript, React, React Native, Node.js, entre outras tecnologias, que utilizo para criar aplicações web e mobile de alto nível e valor.
                 </Description>
                 <Description>
-                    Meu foco é aprender novas coisas e aprimorar ainda mais as habilidades que possuo, gosto sempre de estar em constante aprendizado e evoluindo dia após dia, e agregando muito valor.
+                    Meu foco é aprender continuamente e aprimorar as habilidades que já possuo. Estou sempre em busca de evolução e agregando valor diariamente.
                 </Description>
 
                 <ContainerButton>
-                    <ContactButton href="">
+                    <ContactButton href="#contact">
                         <TextButton>
                             Contato
                         </TextButton>

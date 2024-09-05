@@ -2,7 +2,6 @@ import javascript from '../../assets/iconsSkills/icon-js.png'
 import github from '../../assets/iconsSkills/icon-github.png'
 import css from '../../assets/iconsSkills/icon-CSS.png'
 import html from '../../assets/iconsSkills/icon-HTML.png'
-import next from '../../assets/iconsSkills/icon-next.png'
 import nodejs from '../../assets/iconsSkills/icon-nodejs.png'
 import react from '../../assets/iconsSkills/icon-react.png'
 import git from '../../assets/iconsSkills/icons-git.png'
@@ -32,31 +31,26 @@ const skillsData = [
     },
     {
         "id": 5,
-        "img": next,
-        "name": "NextJs"
-    },
-    {
-        "id": 6,
         "img": nodejs,
         "name": "NodeJs"
     },
     {
-        "id": 7,
+        "id": 6,
         "img": css,
         "name": "CSS"
     },
     {
-        "id": 8,
+        "id": 7,
         "img": html,
         "name": "HTML"
     },
     {
-        "id": 9,
+        "id": 8,
         "img": git,
         "name": "Git"
     },
     {
-        "id": 10,
+        "id": 9,
         "img": github,
         "name": "GitHub"
     }

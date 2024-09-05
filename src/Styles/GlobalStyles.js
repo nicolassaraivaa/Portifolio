@@ -11,6 +11,9 @@ export const GlobalStyles = createGlobalStyle`
     html {
     scroll-behavior: smooth;
     }
+    body{
+        background-color: #222532;
+    }
 `
 
 export default GlobalStyles

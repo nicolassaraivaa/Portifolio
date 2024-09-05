@@ -1,7 +1,6 @@
 import styled from "styled-components";
 
 export const ContainerAbout = styled.div`
-    background-color: #222532;
     display: flex;
     justify-content: center;
     flex-direction: column;
@@ -27,16 +26,20 @@ export const SubTitle = styled.h1`
     font-weight: 700;
     color: white;
     font-size: 40px;
+    white-space: nowrap;
 
-    @media screen and (max-width: 468px){    
+
+    @media screen and (max-width: 700px){    
         font-size: 35px;
 
     }
 
-    @media screen and (max-width: 400px){    
-        font-size: 30px;
+    @media screen and (max-width: 600px){    
+        white-space: normal;
 
     }
+
+
 `;
 
 export const ContainerTech = styled.div`
@@ -44,6 +47,8 @@ export const ContainerTech = styled.div`
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));;
     gap: 20px;
+    justify-content: center;
+    align-items: center;
 
     @media screen and (max-width: 330px){    
         width: fit-content;

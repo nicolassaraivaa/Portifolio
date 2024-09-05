@@ -34,10 +34,10 @@ function Home() {
         </SubText>
 
         <Navegation>
-          <TextNavs href="#sobre">Sobre</TextNavs>
+          <TextNavs href="#about">Sobre</TextNavs>
           <TextNavs href="#skills">Skills</TextNavs>
-          <TextNavs href="#">Projetos</TextNavs>
-          <TextNavs href="#">Contato</TextNavs>
+          <TextNavs href="#projects">Projetos</TextNavs>
+          <TextNavs href="#contact">Contato</TextNavs>
         </Navegation>
 
       </MyInformation>
