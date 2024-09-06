@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200" src="https://nicolassaraivaa.github.io/photosredmi/imgProjects/mario.png"  />
+  <img height="200" src="https://nicolassaraivaa.github.io/photosredmi/imgProjects/myportifolio.png"  />
 </div>
 
 ###
@@ -32,7 +32,6 @@
 
 ###
 
-<a href="https://nicolassaraiva.vercel.app/">CLique aqui para acessar meu Portifolio.</a>
-
+    <a href="https://nicolassaraiva.vercel.app/" style="text-decoration: none; font-size: 25px; font-weight: 900; color: black;">Clique aqui para acessar meu Portifolio.</a>
 ###
 
