@@ -29,9 +29,8 @@
 ###
 
 <p align="left">HTML, CSS, JavaScript, React, Styled-Components, Typewriter-Effect, React Router</p>
-
-###
-
 <a href="https://nicolassaraiva.vercel.app/"></a>
 
 ###
+
+
