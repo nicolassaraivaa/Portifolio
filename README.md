@@ -32,6 +32,6 @@
 
 ###
 
-    <a href="https://nicolassaraiva.vercel.app/" style="text-decoration: none; font-size: 25px; font-weight: 900; color: black;">Clique aqui para acessar meu Portifolio.</a>
+    <a href="https://nicolassaraiva.vercel.app/" style="text-decoration;">Clique aqui para acessar meu Portifolio.</a>
 ###
 
