@@ -32,6 +32,4 @@
 
 ###
 
-    <a href="https://nicolassaraiva.vercel.app/" style="text-decoration;">Clique aqui para acessar meu Portifolio.</a>
-###
 
