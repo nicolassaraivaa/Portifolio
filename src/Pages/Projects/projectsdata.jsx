@@ -24,7 +24,7 @@ const ProjectsData = [
         "description": "O código realiza a conversão de moedas com base na seleção do usuário e exibe o valor convertido. Utiliza uma API para taxas de câmbio e formata o valor final.",
         "tool": "HTML · CSS · JavaScript · Fetch API",
         "github": "https://github.com/nicolassaraivaa/projeto-conversor",
-        "link": "https://nicolassaraivaa.github.io/projeto-conversor/"
+        "link": "https://nicolassaraivaa.github.io/conversor-de-moedas/"
     },
     {
         "id": 3,
@@ -33,7 +33,7 @@ const ProjectsData = [
         "description": "Aplicação web que exibe a previsão do tempo para uma cidade, utilizando a API OpenWeatherMap. O frontend é desenvolvido com HTML, CSS e JavaScript.",
         "tool": "HTML · JavaScript · OpenWeather API",
         "github": "https://github.com/nicolassaraivaa/projeto-waether",
-        "link": "https://nicolassaraivaa.github.io/projeto-waether/"
+        "link": "https://nicolassaraivaa.github.io/previsao-do-tempo/"
     },
     {
         "id": 4,
@@ -42,7 +42,7 @@ const ProjectsData = [
         "description": "Jogo JokenPô (Pedra, Papel e Tesoura) com seleção de oponentes virtuais, pontuação e reinício do jogo. Permite ao usuário definir seu nome e escolher entre diferentes oponentes.",
         "tool": "HTML · CSS · JavaScript",
         "github": "https://github.com/nicolassaraivaa/projeto-jokenpo",
-        "link": "https://nicolassaraivaa.github.io/projeto-jokenpo/"
+        "link": "https://nicolassaraivaa.github.io/game-jokenpo/"
     },
     {
         "id": 5,
@@ -51,7 +51,7 @@ const ProjectsData = [
         "description": "Aplicação web que sorteia um número aleatório entre dois valores definidos pelo usuário.",
         "tool": "HTML · CSS · JavaScript",
         "github": "https://github.com/nicolassaraivaa/projeto-sorteador",
-        "link": "https://nicolassaraivaa.github.io/projeto-sorteador/"
+        "link": "https://nicolassaraivaa.github.io/sorteador/"
     },
     {
         "id": 6,
@@ -60,7 +60,7 @@ const ProjectsData = [
         "description": "O código cria páginas de login e cadastro com campos para email e senha, botões estilizados e links de navegação.",
         "tool": "HTML · CSS ",
         "github": "https://github.com/nicolassaraivaa/Projeto-Tela-de-Login",
-        "link": "https://nicolassaraivaa.github.io/Projeto-Tela-de-Login/"
+        "link": "https://nicolassaraivaa.github.io/Tela-de-Login/"
     },
     {
         "id": 7,
@@ -78,7 +78,7 @@ const ProjectsData = [
         "description": "Página para uma empresa de encanamento com informações sobre serviços e um formulário de contato que aparece ao clicar em um botão.",
         "tool": "HTML · CSS · JavaScript",
         "github": "https://github.com/nicolassaraivaa/projeto-mario-bros",
-        "link": "https://nicolassaraivaa.github.io/projeto-mario-bros/"
+        "link": "https://nicolassaraivaa.github.io/mario-bros/"
     }
 ]
 

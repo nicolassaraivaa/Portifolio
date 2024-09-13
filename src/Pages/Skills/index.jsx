@@ -1,6 +1,4 @@
 import skillsData from "./skills";
-import { ImRadioChecked } from "react-icons/im";
-
 
 import {
     ContainerAbout,
