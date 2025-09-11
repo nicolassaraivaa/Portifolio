@@ -45,7 +45,7 @@ function Projects () {
         <ContainerProjects id="projects">
             <ContainerTitle>
                 <SubTitle>
-                    Projetos pessoais
+                    Projetos 
                 </SubTitle>
 
                 <ButtonSeeMore onClick={seeMore}>
